@@ -1,0 +1,6 @@
+1.open terminal
+2.run cd <location of this app>
+3.run python3 app.py
+4.copy paste the url to browser to see the submission
+
+
